@@ -21,7 +21,7 @@
 
 #### CLR
 
-- When compiling C# code it is complued to an Intermediate Language (IL Code) and is independent of hte computer it is running on.
+- When compiling C# code it is compiled to an Intermediate Language (IL Code) and is independent of the computer it is running on.
 - Need something to convert IL Code to Native Code which is what the CLR does. This is know as **J**ust **I**n **T**ime compiler action or **JIT**.
 - As long as machine has CLR it will be able to run the application
   <br>
