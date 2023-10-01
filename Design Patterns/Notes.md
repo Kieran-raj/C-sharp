@@ -299,6 +299,15 @@ Ambient context should be a singleton, because if there are lots of threads and 
 
 ### 6. Bridge
 
+Simply the concept of connecting different components through abstractions (interface or abstract class).
+
+Motivation:
+&nbsp;&nbsp;&nbsp;&nbsp; - Bridge prevents a 'Cartesion product' complexity explosion.
+
+&nbsp;&nbsp;&nbsp;&nbsp; - Avoids entity explosion.
+
+It is a mechanism that decouples an interface (hierachy) from an implementation (hierachy)
+
 ### 7 Composite
 
 ### 8. Decorator
